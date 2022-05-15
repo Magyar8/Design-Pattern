@@ -4,6 +4,7 @@ The program includes the following design patterns:
 - factory
 - iterator
 - decorator 
+
 This program has three design patterns. One from each of the three major categories. The Creational pattern is the factory, the Strucrural pattern is the decorator and the Behavioral pattern is the iterator.
 
 This is a simple program that represents the design patterns.
